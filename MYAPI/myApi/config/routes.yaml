@@ -1,0 +1,4 @@
+# api/config/routes.yaml
+authentication_token:
+    path: /auth
+    methods: ['POST']
